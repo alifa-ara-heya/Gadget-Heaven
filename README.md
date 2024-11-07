@@ -4,8 +4,7 @@ Welcome to **Gadget Heaven**, a web application for browsing and purchasing the 
 
 ## 🚀 Live Website
 
-[View Live Website](react-gadget-heaven-assignment-alifa.surge.sh
-)
+[View Live Website](https://react-gadget-heaven-assignment-alifa.surge.sh)
 
 ## 📄 Requirement Document
 
@@ -39,7 +38,6 @@ This project employs several core React concepts, including:
 For data handling and management, this project uses:
 
 - **Local Storage**: To persist cart and wishlist items even when the user reloads the page.
-  
 
 ## Key Features
 
@@ -47,8 +45,7 @@ For data handling and management, this project uses:
 2. **Add to Cart and Wishlist**: Users can add gadgets to their cart or wishlist. Items persist in local storage, so users don’t lose their selections upon refreshing the page.
 3. **Sort and Purchase Cart Items**: Users can sort their cart items by price and proceed to checkout with a “Purchase” button.
 4. **Dynamic Page Titles with React Helmet**: Each page in the application has a unique, descriptive title, enhancing SEO and user experience.
-4. **Responsive**: Each page in the application has a unique, descriptive title, enhancing SEO and user experience.
-
+5. **Responsive**: Each page in the application has a unique, descriptive title, enhancing SEO and user experience.
 
 ## Installation and Setup
 
@@ -58,3 +55,4 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/gadget-heaven.git
    cd gadget-heaven
+   ```
